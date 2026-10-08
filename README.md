@@ -36,3 +36,10 @@ details are out of scope for this package.
 8. [Packaging](008_packaging.md)
 9. [Documentation](009_documentation.md)
 10. [Examples](010_examples.md)
+
+## License
+
+This specification package, including its documentation, metadata, and bundled
+resources, is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Lucas Lopez.
